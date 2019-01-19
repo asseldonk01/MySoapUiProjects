@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="a06214ac-0c87-49ff-828b-0f04d6a3d54e" discardOkResults="true" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="Properties" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="a06214ac-0c87-49ff-828b-0f04d6a3d54efileName">Properties</con:setting>
+  </con:settings>
+  <con:savedRecentRuns>1</con:savedRecentRuns>
+  <con:testStep type="properties" name="Properties" id="579dde69-91be-477b-92fc-ce8a25d5477e">
+    <con:settings/>
+    <con:config xsi:type="con:PropertiesStep" saveFirst="true" discardValuesOnSave="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <con:properties>
+        <con:property>
+          <con:name>Test</con:name>
+          <con:value xsi:nil="true"/>
+        </con:property>
+      </con:properties>
+    </con:config>
+  </con:testStep>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testCase>
