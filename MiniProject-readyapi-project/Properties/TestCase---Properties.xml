@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="ef9a27a3-c0c2-42d3-b110-1ebfaa9cca84" discardOkResults="true" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="TestCase - Properties" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="ef9a27a3-c0c2-42d3-b110-1ebfaa9cca84fileName">TestCase---Properties</con:setting>
+  </con:settings>
+  <con:savedRecentRuns>1</con:savedRecentRuns>
+  <con:testStep type="groovy" name="Groovy Script" id="cf4966b4-e0de-4cc3-b376-18283823215f">
+    <con:settings/>
+    <con:config>
+      <script>//testRunner.testCase.getTestStepByName("Properties").setPropertyValue("Input","0")
+tc = testRunner.getTestCase()
+tc.setPropertyValue("Input","0")
+tc.setPropertyValue("Output","1")</script>
+    </con:config>
+  </con:testStep>
+  <con:properties>
+    <con:property>
+      <con:name>Input</con:name>
+      <con:value>0</con:value>
+    </con:property>
+    <con:property>
+      <con:name>Output</con:name>
+      <con:value>1</con:value>
+    </con:property>
+  </con:properties>
+  <con:reportParameters/>
+</con:testCase>
