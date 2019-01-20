@@ -11,11 +11,11 @@
       <con:properties>
         <con:property>
           <con:name>Input</con:name>
-          <con:value>5</con:value>
+          <con:value>6</con:value>
         </con:property>
         <con:property>
           <con:name>Output</con:name>
-          <con:value>5</con:value>
+          <con:value>6</con:value>
         </con:property>
       </con:properties>
       <con:returnProperties>
