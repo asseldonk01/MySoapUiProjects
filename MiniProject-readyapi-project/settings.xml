@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:soapui-project id="07f51e63-35cc-4f27-bda2-dfbeb729ba50" created="2.6.0" activeEnvironment="Default environment" name="MiniProject" resourceRoot="" compositeProjectFormat="1.3" updated="2.6.0" encryptionMode="Not encrypted" savePropertyValues="false" xmlns:con="http://eviware.com/soapui/config">
+<con:soapui-project id="07f51e63-35cc-4f27-bda2-dfbeb729ba50" created="2.6.0" activeEnvironment="Default environment" name="MiniProject" resourceRoot="" compositeProjectFormat="1.3" updated="2.6.0" encryptionMode="Not encrypted" savePropertyValues="true" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="07f51e63-35cc-4f27-bda2-dfbeb729ba50fileName">MiniProject-readyapi-project</con:setting>
   </con:settings>
